@@ -2,7 +2,7 @@
 
 ## ID, class, border, width, border, padding, margin
 
-Forkold le ezt a repositoryt és clonozd e a sajátodat a gépedre!
+Forkold le ezt a repositoryt és clonozd e a sajátodat a gépedre! Keresd meg a FORK ikont a github repo jobb oldalán!
 
 ``` 
 git clone sajatreponeve
