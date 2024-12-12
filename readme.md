@@ -13,7 +13,7 @@ git clone sajatreponeve
 
 Készítsd el a mintának megfelelő oldalt: 
 <img src="kepek/minta.PNG" alt="minta">
-<a href="">Minta</a>
+<a href="https://csefikatalin.github.io/autok_matetol/">Minta</a>
 
 ### Feladatok az index.html-ben
 
